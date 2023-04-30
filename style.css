@@ -20,3 +20,7 @@ img{
 .container2{
     margin: 30px 75px;
 }
+ body{
+    padding-right: 160px;
+    padding-left: 160px;
+ }
