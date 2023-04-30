@@ -1,0 +1,22 @@
+img{
+    width:100%;
+}
+#nav2{
+    color:white;
+    width: 50%; 
+    margin: 0 auto;
+}
+#signin{
+    margin: 10px;
+}
+#disneytitle{
+    text-align: center;
+    margin-top: 25px;;
+}
+.container{
+    margin-top: 25px;
+    text-align: center;
+}
+.container2{
+    margin: 30px 75px;
+}
